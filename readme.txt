@@ -1,6 +1,6 @@
 === Mobilize ===
-Contributors: Ciprian Popescu
-Donate link: http://getbutterfly.com/wordpress-plugins/mobilize/
+Contributors: butterflymedia
+Donate link: http://getbutterfly.com/wordpress-plugins-free/
 Tags: menu, mobile, slide, swipe
 Requires at least: 4.0
 Tested up to: 4.1.1
